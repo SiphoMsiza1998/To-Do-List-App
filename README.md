@@ -24,7 +24,7 @@ JavaScript: Implements functionality such as adding, removing, and marking tasks
 
 Git: Version control is managed using Git, allowing efficient tracking of changes and collaboration.
 
-How to Use:
+# How to Use:
 
 Adding Tasks: Enter a task in the input field and click "Add."
 
