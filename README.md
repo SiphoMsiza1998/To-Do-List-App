@@ -14,7 +14,7 @@ Persistent Storage: Tasks are saved using localStorage, ensuring they remain eve
 
 Responsive Design: Works smoothly across various devices with a modern, user-friendly interface.
 
-#Technologies Used:
+# Technologies Used:
 
 HTML: Provides the basic structure of the application.
 
